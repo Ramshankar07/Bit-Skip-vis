@@ -1,0 +1,5 @@
+{
+  "name": "BitSkip Visualizer",
+  "description": "Interactive dashboard visualizing the BitSkip research paper: An Empirical Analysis of Quantization and Early Exit Composition.",
+  "requestFramePermissions": []
+}
